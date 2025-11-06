@@ -65,7 +65,7 @@ pre {
     font-family: Forte;
     }
 .page_header .content {
-    width: 480px;
+    width: 100%;
     margin: 0 auto;
     border-radius: 0 !important;
 }
@@ -93,7 +93,7 @@ pre {
 }
 .page_body {
     padding-top: 64px;
-    width: 480px;
+    width: 460px;
     margin: 0 auto;
 }
 .page_about {
@@ -636,4 +636,5 @@ div.toast_shown {
 .reactions .reaction .count {
     margin-right: 8px;
     line-height: 20px;
+
 }
