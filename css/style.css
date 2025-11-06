@@ -410,7 +410,7 @@ div.selected {
     transition: opacity 3.0s ease;
 }
 .toast_body {
-    margin: 0 -50%;
+    margin: 0 5%;
     float: left;
     border-radius: 15px;
     padding: 10px 20px;
@@ -638,6 +638,7 @@ div.toast_shown {
     line-height: 20px;
 
 }
+
 
 
 
