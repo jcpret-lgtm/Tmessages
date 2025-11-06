@@ -45,7 +45,7 @@ pre {
     float: right;
 }
 .page_wrap {
-    background-color: mintcream;
+    background-color: white;
     color: black;
     font-weight: 600;
 }
@@ -638,3 +638,4 @@ div.toast_shown {
     line-height: 20px;
 
 }
+
