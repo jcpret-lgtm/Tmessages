@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font: 12px/18px 'Open Sans',"Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
-    background-color: grey;
+    background-color: darkgrey;
 }
 strong {
     font-weight: 700;
@@ -269,7 +269,7 @@ div.selected {
     padding: 10px 24px;
 }
 .service .body {
-    text-align: left;
+    text-align: center;
 }
 .service .userpic_wrap {
     padding-top: 10px;
@@ -638,6 +638,7 @@ div.toast_shown {
     line-height: 20px;
 
 }
+
 
 
 
