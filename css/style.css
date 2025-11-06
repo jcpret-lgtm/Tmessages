@@ -65,7 +65,7 @@ pre {
     font-family: Forte;
     }
 .page_header .content {
-    width: 100%;
+    width: 480px;
     margin: 0 auto;
     border-radius: 0 !important;
 }
@@ -638,6 +638,7 @@ div.toast_shown {
     line-height: 20px;
 
 }
+
 
 
 
