@@ -188,7 +188,7 @@ pre {
     width: 124px;
 }
 .personal_info .bio {
-    width: 400px;
+    width: 480px;
 }
 .personal_info .row {
     padding-bottom: 16px;
@@ -638,6 +638,7 @@ div.toast_shown {
     line-height: 20px;
 
 }
+
 
 
 
