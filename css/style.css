@@ -57,9 +57,9 @@ pre {
     text-decoration: underline;
 }
 .page_header {
-    position: static;
+    position: absolute;
     z-index: 10;
-    background-color: lightseagreen;
+    background-color: lightblue;
     width: 100%;
     border-bottom: 1px solid #e3e6e8;
     font-family: Forte;
@@ -638,4 +638,5 @@ div.toast_shown {
     line-height: 20px;
 
 }
+
 
