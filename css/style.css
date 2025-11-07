@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font: 12px/18px 'Open Sans',"Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
-    background-color: darkgrey;
+    background-color: mintcream;
 }
 strong {
     font-weight: 700;
@@ -638,6 +638,7 @@ div.toast_shown {
     line-height: 20px;
 
 }
+
 
 
 
