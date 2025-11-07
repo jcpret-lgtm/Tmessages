@@ -301,10 +301,11 @@ div.selected {
     margin-left: 60px;
 }
 .default .text {
-    word-wrap: break-word;
+    word-wrap: normal;
     line-height: 150%;
     unicode-bidi: plaintext;
     text-align: start;
+    font-size: 20px;
 }
 .default .reply_to,
 .default .media_wrap {
@@ -638,6 +639,7 @@ div.toast_shown {
     line-height: 20px;
 
 }
+
 
 
 
