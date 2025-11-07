@@ -94,7 +94,7 @@ pre {
 .page_body {
     padding-top: 64px;
     width: fit-content;
-    margin: 0 auto;
+    margin: 0 0;
 }
 .page_about {
     padding: 24px 24px;
@@ -638,6 +638,7 @@ div.toast_shown {
     line-height: 20px;
 
 }
+
 
 
 
