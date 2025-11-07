@@ -60,7 +60,7 @@ pre {
     position: static;
     z-index: 10;
     background-color: lightblue;
-    width: fit-content;
+    width: 480px;
     border-bottom: 1px solid #e3e6e8;
     font-family: Forte;
     }
@@ -638,6 +638,7 @@ div.toast_shown {
     line-height: 20px;
 
 }
+
 
 
 
