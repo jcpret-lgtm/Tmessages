@@ -93,7 +93,7 @@ pre {
 }
 .page_body {
     padding-top: 64px;
-    width: 100% ;
+    width: fit-content ;
     margin: 0 auto;
 }
 .page_about {
@@ -660,6 +660,7 @@ div.toast_shown {
     width: 540px ;
     margin: 0 0;
 }
+
 
 
 
