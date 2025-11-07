@@ -645,7 +645,7 @@ div.toast_shown {
 .page_header {
     position: static;
     z-index: 10;
-    background-color: lightblue;
+    background-color: lightgreen;
     width: 540px;
     border-bottom: 1px solid #e3e6e8;
     font-family: Forte;
@@ -660,6 +660,7 @@ div.toast_shown {
     width: 540px ;
     margin: 0 0;
 }
+
 
 
 
