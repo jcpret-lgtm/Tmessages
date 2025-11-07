@@ -305,7 +305,7 @@ div.selected {
     line-height: 150%;
     unicode-bidi: plaintext;
     text-align: start;
-    font-size: 25px;
+    font-size: 20px;
 }
 .default .reply_to,
 .default .media_wrap {
@@ -638,6 +638,9 @@ div.toast_shown {
     margin-right: 8px;
     line-height: 20px;
 
+}
+@media only screen and (width:600px) {
+    font-size:30px;
 }
 
 
