@@ -60,12 +60,12 @@ pre {
     position: static;
     z-index: 10;
     background-color: lightblue;
-    width: 480px;
+    width: 540px;
     border-bottom: 1px solid #e3e6e8;
     font-family: Forte;
     }
 .page_header .content {
-    width: 480px;
+    width: 540px;
     margin: 0 auto;
     border-radius: 0 !important;
 }
@@ -93,7 +93,7 @@ pre {
 }
 .page_body {
     padding-top: 64px;
-    width: 600px ;
+    width: 540px ;
     margin: 0 0;
 }
 .page_about {
@@ -638,6 +638,7 @@ div.toast_shown {
     line-height: 20px;
 
 }
+
 
 
 
