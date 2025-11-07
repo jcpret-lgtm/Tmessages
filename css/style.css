@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font: 16px/20px 'Open Sans',"Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
+    font: 16px/18px 'Open Sans',"Lucida Grande","Lucida Sans Unicode",Arial,Helvetica,Verdana,sans-serif;
     background-color: mintcream;
 }
 strong {
@@ -60,12 +60,12 @@ pre {
     position: static;
     z-index: 10;
     background-color: lightblue;
-    width: 540px;
+    width: 100%;
     border-bottom: 1px solid #e3e6e8;
     font-family: Forte;
     }
 .page_header .content {
-    width: 540px;
+    width: fit-content;
     margin: 0 auto;
     border-radius: 0 !important;
 }
@@ -641,6 +641,19 @@ div.toast_shown {
 }
 @media only screen and (width:600px) {
     font-size:30px;
+}
+.page_header {
+    position: static;
+    z-index: 10;
+    background-color: lightblue;
+    width: 540px;
+    border-bottom: 1px solid #e3e6e8;
+    font-family: Forte;
+    }
+.page_header .content {
+    width: 540px;
+    margin: 0 auto;
+    border-radius: 0 !important;
 }
 
 
