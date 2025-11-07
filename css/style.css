@@ -281,7 +281,7 @@ div.selected {
     font-size: 24px;
 }
 .message .userpic .initials {
-    font-size: 16px;
+    font-size: 20px;
 }
 .default {
     padding: 10px;
@@ -638,6 +638,7 @@ div.toast_shown {
     line-height: 20px;
 
 }
+
 
 
 
